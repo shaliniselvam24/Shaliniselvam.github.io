@@ -13,11 +13,10 @@ I'm a passionate Data Analyst with a background in Civil Engineering. I recently
 - Cleaned and analyzed sales data using Excel pivot tables
 - Created dynamic dashboards to showcase profit trends
 
-*More projects coming soon!*
 
 ## 📜 Certifications
 - Google Data Analytics Professional Certificate (2025)
 
 ## 📞 Contact
-- 📧 Email: shaliniselvamit@gamil.com  
+- 📧 Email: shaliniselvamit@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shalini-selvam-a77ba4366)
